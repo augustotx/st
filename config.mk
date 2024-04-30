@@ -33,4 +33,5 @@ STLDFLAGS = $(LIBS) $(LDFLAGS)
 #MANPREFIX = ${PREFIX}/man
 
 # compiler and linker
-# CC = c99
+# changed to gcc just for fun
+CC = gcc
