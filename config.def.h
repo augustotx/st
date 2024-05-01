@@ -5,13 +5,13 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono:pixelsize=14";
+static char *font = "JetBrains Mono:pixelsize=15";
 /* Spare fonts */
 static char *font2[] = {
-	"Symbols Nerd Font:pixelsize=14"
+	"Symbols Nerd Font:pixelsize=15"
 };
 
-static int borderpx = 2;
+static int borderpx = 10;
 
 /*
  * What program is execed by st depends of these precedence rules:
