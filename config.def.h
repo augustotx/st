@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono:pixelsize=16";
+static char *font = "JetBrains Mono:pixelsize=14";
 /* Spare fonts */
 static char *font2[] = {
 	"Symbols Nerd Font:pixelsize=14"
