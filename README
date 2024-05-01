@@ -7,7 +7,6 @@ Requirements
 ------------
 In order to build st you need the Xlib header files.
 
-This version has font ligature support and requires the Harfbuzz library and header files.
 
 Installation
 ------------
