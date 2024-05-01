@@ -8,7 +8,7 @@
 static char *font = "JetBrains Mono:pixelsize=15";
 /* Spare fonts */
 static char *font2[] = {
-	"Symbols Nerd Font:pixelsize=15"
+	"Symbols Nerd Font Mono:pixelsize=8"
 };
 
 static int borderpx = 10;
